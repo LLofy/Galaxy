@@ -1,0 +1,38 @@
+body{
+	height: 100%;
+	width: 100%;
+	margin: 0 auto;	
+	background-color: #000;
+}
+
+
+.imagem{
+	height: 99.5%;
+	width: 99.8%;
+	background-image: url('../img/telefoneico.png');
+	background-size: cover;	
+  	border: 1px solid darkgray;
+}
+
+.contente1{
+	position: absolute;
+	font-size: 30px;
+	left: 45%;
+	top: 41%;
+	color: #FFF;
+}
+
+.contente2{
+	position: absolute;
+	left: 43%;
+	top: 49%;
+	color: #FFF;
+}
+
+
+
+
+
+
+
+
